@@ -19,8 +19,6 @@ The problem we address:
 
 ## Repository Structure
 
-## Project Structure
-
 - `app.py`  
   Flask app for deploying a lightweight API to interact with the fake news model and GenAI summarization.
   
